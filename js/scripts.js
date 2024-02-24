@@ -164,6 +164,6 @@ var currentDateString = currentDate.getFullYear() + '-' + ('0' + (currentDate.ge
 var diff = calculateYearAndMonths(startDate, currentDateString);
 
 // Display the result with parentheses
-document.getElementById('result').innerText = '(' + diff.years + ' years ' + diff.months + ' months' + ')';
+document.getElementById('result').innerText = '(' + diff.years + ' Years ' + diff.months + ' Months' + ')';
 
 
