@@ -138,3 +138,32 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+function calculateYearAndMonths(startDate, endDate) {
+  var start = new Date(startDate);
+  var end = new Date(endDate); // Current date
+
+  var yearDiff = end.getFullYear() - start.getFullYear();
+  var monthDiff = end.getMonth() - start.getMonth();
+
+  if (monthDiff < 0) {
+      yearDiff--;
+      monthDiff += 12;
+  }
+
+  return { years: yearDiff, months: monthDiff };
+}
+
+// Define the start date
+var startDate = '2020-10-01';
+
+// Get the current date
+var currentDate = new Date();
+var currentDateString = currentDate.getFullYear() + '-' + ('0' + (currentDate.getMonth() + 1)).slice(-2) + '-' + ('0' + currentDate.getDate()).slice(-2);
+
+// Calculate the difference between the start date and the current date
+var diff = calculateYearAndMonths(startDate, currentDateString);
+
+// Display the result with parentheses
+document.getElementById('result').innerText = '(' + diff.years + ' years ' + diff.months + ' months' + ')';
+
+
