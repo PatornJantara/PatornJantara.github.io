@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/PatornJantara.github.io/', // Replace 'your-repo-name' with the actual name of your GitHub repository
+  base: '/', // Replace 'your-repo-name' with the actual name of your GitHub repository
 })
