@@ -11,7 +11,7 @@ export const profile = {
   email: "patorn.jantara@gmail.com",
 
   social: {
-    linkedin: "https://linkedin.com/in/your-profile",
+    linkedin: "https://www.linkedin.com/in/patorn-j/",
     github: "https://github.com/PatornJantara",
     medium: "https://patorn-j.medium.com/",
   },
