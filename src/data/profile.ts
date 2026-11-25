@@ -4,7 +4,7 @@ export const profile = {
   subtitle: "Automate Test Equipment | Machine Vision | Software Development",
 
   introduction:
-    "Test Engineer with 5 years of experience in automated test equipment development, machine vision inspection, and software development for digital camera manufacturing.",
+    "Test Engineer with 6 years of experience in automated test equipment development, machine vision inspection, and software development for digital camera manufacturing.",
 
   location: "Phra-Nakhon Si Ayutthaya, Thailand",
 
@@ -12,9 +12,10 @@ export const profile = {
 
   social: {
     linkedin: "https://linkedin.com/in/your-profile",
-    github: "https://github.com/your-username",
+    github: "https://github.com/PatornJantara",
+    medium: "https://patorn-j.medium.com/",
   },
 
   photo: "/images/profile.jpg",
-  resume: "/resume.pdf",
+  resume: "/docs/Resume_Patorn_Jantarasombat.pdf",
 };

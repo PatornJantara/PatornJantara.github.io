@@ -8,6 +8,7 @@ import {
 import {
   FaGithub,
   FaLinkedin,
+  FaMedium,
 } from "react-icons/fa";
 
 import { motion } from "motion/react";
@@ -33,7 +34,7 @@ export default function Profile() {
           >
 
             <p className="text-blue-600 font-semibold tracking-widest uppercase text-sm">
-              Welcome to my portfolio
+              Welcome to my webpage.
             </p>
 
             <div>
@@ -92,6 +93,16 @@ export default function Profile() {
                 className="p-3 border rounded-lg hover:bg-gray-100"
               >
                 <FaGithub size={20} />
+              </a>
+
+                            <a
+                href={profile.social.medium}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Medium"
+                className="p-3 border rounded-lg hover:bg-gray-100"
+              >
+                <FaMedium size={20} />
               </a>
 
             </div>

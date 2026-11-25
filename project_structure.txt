@@ -1,0 +1,386 @@
+Folder PATH listing
+Volume serial number is 06F0-C4F7
+C:.
+ÃÄÄÄdist
+³   ÀÄÄÄassets
+ÃÄÄÄnode_modules
+³   ÃÄÄÄ.bin
+³   ÃÄÄÄ.tmp
+³   ÃÄÄÄ.vite
+³   ³   ÀÄÄÄdeps
+³   ÃÄÄÄ.vite-temp
+³   ÃÄÄÄ@emnapi
+³   ÃÄÄÄ@jridgewell
+³   ³   ÃÄÄÄgen-mapping
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄtypes
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄremapping
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÃÄÄÄresolve-uri
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÃÄÄÄsourcemap-codec
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄsrc
+³   ³   ³   ÀÄÄÄtypes
+³   ³   ÀÄÄÄtrace-mapping
+³   ³       ÃÄÄÄdist
+³   ³       ÃÄÄÄsrc
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄ@napi-rs
+³   ÃÄÄÄ@oxc-project
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄ@oxlint
+³   ³   ÀÄÄÄbinding-win32-x64-msvc
+³   ÃÄÄÄ@rolldown
+³   ³   ÃÄÄÄbinding-win32-x64-msvc
+³   ³   ÀÄÄÄpluginutils
+³   ³       ÀÄÄÄdist
+³   ³           ÀÄÄÄfilter
+³   ÃÄÄÄ@tailwindcss
+³   ³   ÃÄÄÄnode
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄoxide
+³   ³   ÃÄÄÄoxide-wasm32-wasi
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÃÄÄÄ@emnapi
+³   ³   ³       ³   ÃÄÄÄcore
+³   ³   ³       ³   ³   ÀÄÄÄdist
+³   ³   ³       ³   ÃÄÄÄruntime
+³   ³   ³       ³   ³   ÀÄÄÄdist
+³   ³   ³       ³   ÀÄÄÄwasi-threads
+³   ³   ³       ³       ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄ@napi-rs
+³   ³   ³       ³   ÀÄÄÄwasm-runtime
+³   ³   ³       ³       ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄ@tybys
+³   ³   ³       ³   ÀÄÄÄwasm-util
+³   ³   ³       ³       ÃÄÄÄdist
+³   ³   ³       ³       ÀÄÄÄlib
+³   ³   ³       ³           ÃÄÄÄcjs
+³   ³   ³       ³           ³   ÀÄÄÄwasi
+³   ³   ³       ³           ÀÄÄÄmjs
+³   ³   ³       ³               ÀÄÄÄwasi
+³   ³   ³       ÀÄÄÄtslib
+³   ³   ³           ÀÄÄÄmodules
+³   ³   ÃÄÄÄoxide-win32-x64-msvc
+³   ³   ÀÄÄÄvite
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@tybys
+³   ÃÄÄÄ@types
+³   ³   ÃÄÄÄnode
+³   ³   ³   ÃÄÄÄassert
+³   ³   ³   ÃÄÄÄcompatibility
+³   ³   ³   ÃÄÄÄdns
+³   ³   ³   ÃÄÄÄfs
+³   ³   ³   ÃÄÄÄreadline
+³   ³   ³   ÃÄÄÄstream
+³   ³   ³   ÃÄÄÄtimers
+³   ³   ³   ÃÄÄÄts5.6
+³   ³   ³   ³   ÀÄÄÄcompatibility
+³   ³   ³   ÃÄÄÄts5.7
+³   ³   ³   ³   ÀÄÄÄcompatibility
+³   ³   ³   ÀÄÄÄweb-globals
+³   ³   ÃÄÄÄreact
+³   ³   ³   ÀÄÄÄts5.0
+³   ³   ÀÄÄÄreact-dom
+³   ³       ÀÄÄÄtest-utils
+³   ÃÄÄÄ@typescript
+³   ³   ÀÄÄÄtypescript-win32-x64
+³   ³       ÀÄÄÄlib
+³   ÃÄÄÄ@vitejs
+³   ³   ÀÄÄÄplugin-react
+³   ³       ÃÄÄÄdist
+³   ³       ÀÄÄÄtypes
+³   ÃÄÄÄcsstype
+³   ÃÄÄÄdetect-libc
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄenhanced-resolve
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄutil
+³   ³   ÀÄÄÄtypes
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄfdir
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄframer-motion
+³   ³   ÃÄÄÄanimate-view
+³   ³   ÃÄÄÄclient
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÀÄÄÄes
+³   ³   ³       ÃÄÄÄanimation
+³   ³   ³       ³   ÃÄÄÄanimate
+³   ³   ³       ³   ÃÄÄÄanimators
+³   ³   ³       ³   ³   ÀÄÄÄwaapi
+³   ³   ³       ³   ÃÄÄÄhooks
+³   ³   ³       ³   ÃÄÄÄoptimized-appear
+³   ³   ³       ³   ÃÄÄÄsequence
+³   ³   ³       ³   ³   ÀÄÄÄutils
+³   ³   ³       ³   ÃÄÄÄtimeline
+³   ³   ³       ³   ÀÄÄÄutils
+³   ³   ³       ÃÄÄÄcomponents
+³   ³   ³       ³   ÃÄÄÄAnimatePresence
+³   ³   ³       ³   ÃÄÄÄAnimateView
+³   ³   ³       ³   ³   ÀÄÄÄhooks
+³   ³   ³       ³   ÃÄÄÄLayoutGroup
+³   ³   ³       ³   ÃÄÄÄLazyMotion
+³   ³   ³       ³   ÃÄÄÄMotionConfig
+³   ³   ³       ³   ÀÄÄÄReorder
+³   ³   ³       ³       ÀÄÄÄutils
+³   ³   ³       ÃÄÄÄcontext
+³   ³   ³       ³   ÀÄÄÄMotionContext
+³   ³   ³       ÃÄÄÄevents
+³   ³   ³       ÃÄÄÄgestures
+³   ³   ³       ³   ÃÄÄÄdrag
+³   ³   ³       ³   ÀÄÄÄpan
+³   ³   ³       ÃÄÄÄmotion
+³   ³   ³       ³   ÃÄÄÄfeatures
+³   ³   ³       ³   ³   ÃÄÄÄanimation
+³   ³   ³       ³   ³   ÃÄÄÄlayout
+³   ³   ³       ³   ³   ÀÄÄÄviewport
+³   ³   ³       ³   ÀÄÄÄutils
+³   ³   ³       ÃÄÄÄprojection
+³   ³   ³       ÃÄÄÄrender
+³   ³   ³       ³   ÃÄÄÄcomponents
+³   ³   ³       ³   ³   ÃÄÄÄm
+³   ³   ³       ³   ³   ÀÄÄÄmotion
+³   ³   ³       ³   ÃÄÄÄdom
+³   ³   ³       ³   ³   ÃÄÄÄscroll
+³   ³   ³       ³   ³   ³   ÃÄÄÄoffsets
+³   ³   ³       ³   ³   ³   ÀÄÄÄutils
+³   ³   ³       ³   ³   ÃÄÄÄutils
+³   ³   ³       ³   ³   ÀÄÄÄviewport
+³   ³   ³       ³   ÃÄÄÄhtml
+³   ³   ³       ³   ³   ÀÄÄÄutils
+³   ³   ³       ³   ÀÄÄÄsvg
+³   ³   ³       ³       ÀÄÄÄutils
+³   ³   ³       ÃÄÄÄutils
+³   ³   ³       ³   ÀÄÄÄreduced-motion
+³   ³   ³       ÀÄÄÄvalue
+³   ³   ³           ÃÄÄÄscroll
+³   ³   ³           ÀÄÄÄuse-will-change
+³   ³   ÃÄÄÄdom
+³   ³   ³   ÀÄÄÄmini
+³   ³   ÃÄÄÄm
+³   ³   ÃÄÄÄmini
+³   ³   ÀÄÄÄremix
+³   ÃÄÄÄgraceful-fs
+³   ÃÄÄÄjiti
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄlightningcss
+³   ³   ÀÄÄÄnode
+³   ÃÄÄÄlightningcss-win32-x64-msvc
+³   ÃÄÄÄlucide-react
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄesm
+³   ³           ÃÄÄÄicons
+³   ³           ÀÄÄÄshared
+³   ³               ÀÄÄÄsrc
+³   ³                   ÃÄÄÄbuild
+³   ³                   ÀÄÄÄutils
+³   ÃÄÄÄmagic-string
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄmotion
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄcjs
+³   ³   ³   ÀÄÄÄes
+³   ³   ÃÄÄÄmini
+³   ³   ÃÄÄÄreact
+³   ³   ÃÄÄÄreact-animate-view
+³   ³   ÃÄÄÄreact-client
+³   ³   ÃÄÄÄreact-m
+³   ³   ÀÄÄÄremix
+³   ÃÄÄÄmotion-dom
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄes
+³   ³           ÃÄÄÄanimation
+³   ³           ³   ÃÄÄÄanimate
+³   ³           ³   ÃÄÄÄdrivers
+³   ³           ³   ÃÄÄÄgenerators
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄinterfaces
+³   ³           ³   ÃÄÄÄkeyframes
+³   ³           ³   ³   ÃÄÄÄoffsets
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄoptimized-appear
+³   ³           ³   ÃÄÄÄutils
+³   ³           ³   ÀÄÄÄwaapi
+³   ³           ³       ÃÄÄÄeasing
+³   ³           ³       ÃÄÄÄsupports
+³   ³           ³       ÃÄÄÄtransforms
+³   ³           ³       ÀÄÄÄutils
+³   ³           ÃÄÄÄeffects
+³   ³           ³   ÃÄÄÄattr
+³   ³           ³   ÃÄÄÄprop
+³   ³           ³   ÃÄÄÄstyle
+³   ³           ³   ÃÄÄÄsvg
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄevents
+³   ³           ÃÄÄÄframeloop
+³   ³           ÃÄÄÄgestures
+³   ³           ³   ÃÄÄÄdrag
+³   ³           ³   ³   ÃÄÄÄstate
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄpan
+³   ³           ³   ÃÄÄÄpinch
+³   ³           ³   ÃÄÄÄpress
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄlayout
+³   ³           ÃÄÄÄprojection
+³   ³           ³   ÃÄÄÄanimation
+³   ³           ³   ÃÄÄÄgeometry
+³   ³           ³   ÃÄÄÄnode
+³   ³           ³   ÃÄÄÄshared
+³   ³           ³   ÃÄÄÄstyles
+³   ³           ³   ÀÄÄÄutils
+³   ³           ÃÄÄÄrender
+³   ³           ³   ÃÄÄÄdom
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄhtml
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄobject
+³   ³           ³   ÃÄÄÄsvg
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÀÄÄÄutils
+³   ³           ³       ÀÄÄÄreduced-motion
+³   ³           ÃÄÄÄresize
+³   ³           ÃÄÄÄscope
+³   ³           ÃÄÄÄstats
+³   ³           ÃÄÄÄutils
+³   ³           ³   ÃÄÄÄmix
+³   ³           ³   ÀÄÄÄsupports
+³   ³           ÃÄÄÄvalue
+³   ³           ³   ÃÄÄÄtypes
+³   ³           ³   ³   ÃÄÄÄcolor
+³   ³           ³   ³   ÃÄÄÄcomplex
+³   ³           ³   ³   ÃÄÄÄmaps
+³   ³           ³   ³   ÃÄÄÄnumbers
+³   ³           ³   ³   ÀÄÄÄutils
+³   ³           ³   ÃÄÄÄutils
+³   ³           ³   ÀÄÄÄwill-change
+³   ³           ÀÄÄÄview
+³   ³               ÀÄÄÄutils
+³   ÃÄÄÄmotion-utils
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄes
+³   ³           ÀÄÄÄeasing
+³   ³               ÃÄÄÄmodifiers
+³   ³               ÀÄÄÄutils
+³   ÃÄÄÄnanoid
+³   ³   ÃÄÄÄasync
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄnon-secure
+³   ³   ÀÄÄÄurl-alphabet
+³   ÃÄÄÄoxlint
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄpicocolors
+³   ÃÄÄÄpicomatch
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpostcss
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄreact
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄreact-dom
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄreact-icons
+³   ³   ÃÄÄÄai
+³   ³   ÃÄÄÄbi
+³   ³   ÃÄÄÄbs
+³   ³   ÃÄÄÄcg
+³   ³   ÃÄÄÄci
+³   ³   ÃÄÄÄdi
+³   ³   ÃÄÄÄfa
+³   ³   ÃÄÄÄfa6
+³   ³   ÃÄÄÄfc
+³   ³   ÃÄÄÄfi
+³   ³   ÃÄÄÄgi
+³   ³   ÃÄÄÄgo
+³   ³   ÃÄÄÄgr
+³   ³   ÃÄÄÄhi
+³   ³   ÃÄÄÄhi2
+³   ³   ÃÄÄÄim
+³   ³   ÃÄÄÄio
+³   ³   ÃÄÄÄio5
+³   ³   ÃÄÄÄlia
+³   ³   ÃÄÄÄlib
+³   ³   ÃÄÄÄlu
+³   ³   ÃÄÄÄmd
+³   ³   ÃÄÄÄpi
+³   ³   ÃÄÄÄri
+³   ³   ÃÄÄÄrx
+³   ³   ÃÄÄÄsi
+³   ³   ÃÄÄÄsl
+³   ³   ÃÄÄÄtb
+³   ³   ÃÄÄÄtfi
+³   ³   ÃÄÄÄti
+³   ³   ÃÄÄÄvsc
+³   ³   ÀÄÄÄwi
+³   ÃÄÄÄrolldown
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdist
+³   ³       ÀÄÄÄshared
+³   ÃÄÄÄscheduler
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄsource-map-js
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄtailwindcss
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄtapable
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄtinyglobby
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄtslib
+³   ³   ÀÄÄÄmodules
+³   ÃÄÄÄtypescript
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄapi
+³   ³   ³   ³   ÃÄÄÄasync
+³   ³   ³   ³   ÃÄÄÄnode
+³   ³   ³   ³   ÀÄÄÄsync
+³   ³   ³   ÃÄÄÄast
+³   ³   ³   ÃÄÄÄenums
+³   ³   ³   ÀÄÄÄinternal
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄvendor
+³   ³       ÀÄÄÄvscode-jsonrpc
+³   ³           ÃÄÄÄlib
+³   ³           ³   ÃÄÄÄbrowser
+³   ³           ³   ÃÄÄÄcommon
+³   ³           ³   ÀÄÄÄnode
+³   ³           ÀÄÄÄtypings
+³   ÃÄÄÄundici-types
+³   ÀÄÄÄvite
+³       ÃÄÄÄbin
+³       ÃÄÄÄdist
+³       ³   ÃÄÄÄclient
+³       ³   ÀÄÄÄnode
+³       ³       ÀÄÄÄchunks
+³       ÃÄÄÄmisc
+³       ÀÄÄÄtypes
+³           ÀÄÄÄinternal
+ÃÄÄÄpublic
+³   ÀÄÄÄimages
+ÀÄÄÄsrc
+    ÃÄÄÄassets
+    ÃÄÄÄcomponents
+    ³   ÃÄÄÄcertificate
+    ³   ÃÄÄÄeducation
+    ³   ÃÄÄÄexperience
+    ³   ÃÄÄÄlayout
+    ³   ÃÄÄÄmilestone
+    ³   ÃÄÄÄprofile
+    ³   ÀÄÄÄskills
+    ÃÄÄÄdata
+    ÃÄÄÄhooks
+    ÀÄÄÄtypes
